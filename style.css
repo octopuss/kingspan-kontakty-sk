@@ -210,7 +210,7 @@ footer {
 @media only screen and (max-width: 600px) {
   #map {
     padding: 0;
-    margin-left: 20px;
+    margin-left: 5px;
   }
   .mobile-display-none {
     display: none;
